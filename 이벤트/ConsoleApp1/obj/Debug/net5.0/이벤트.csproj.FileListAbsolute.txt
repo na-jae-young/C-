@@ -1,0 +1,16 @@
+C:\Users\hr\Desktop\code\c#\이벤트\ConsoleApp1\bin\Debug\net5.0\이벤트.exe
+C:\Users\hr\Desktop\code\c#\이벤트\ConsoleApp1\bin\Debug\net5.0\이벤트.deps.json
+C:\Users\hr\Desktop\code\c#\이벤트\ConsoleApp1\bin\Debug\net5.0\이벤트.runtimeconfig.json
+C:\Users\hr\Desktop\code\c#\이벤트\ConsoleApp1\bin\Debug\net5.0\이벤트.runtimeconfig.dev.json
+C:\Users\hr\Desktop\code\c#\이벤트\ConsoleApp1\bin\Debug\net5.0\이벤트.dll
+C:\Users\hr\Desktop\code\c#\이벤트\ConsoleApp1\bin\Debug\net5.0\ref\이벤트.dll
+C:\Users\hr\Desktop\code\c#\이벤트\ConsoleApp1\bin\Debug\net5.0\이벤트.pdb
+C:\Users\hr\Desktop\code\c#\이벤트\ConsoleApp1\obj\Debug\net5.0\이벤트.csproj.AssemblyReference.cache
+C:\Users\hr\Desktop\code\c#\이벤트\ConsoleApp1\obj\Debug\net5.0\이벤트.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hr\Desktop\code\c#\이벤트\ConsoleApp1\obj\Debug\net5.0\이벤트.AssemblyInfoInputs.cache
+C:\Users\hr\Desktop\code\c#\이벤트\ConsoleApp1\obj\Debug\net5.0\이벤트.AssemblyInfo.cs
+C:\Users\hr\Desktop\code\c#\이벤트\ConsoleApp1\obj\Debug\net5.0\이벤트.csproj.CoreCompileInputs.cache
+C:\Users\hr\Desktop\code\c#\이벤트\ConsoleApp1\obj\Debug\net5.0\이벤트.dll
+C:\Users\hr\Desktop\code\c#\이벤트\ConsoleApp1\obj\Debug\net5.0\ref\이벤트.dll
+C:\Users\hr\Desktop\code\c#\이벤트\ConsoleApp1\obj\Debug\net5.0\이벤트.pdb
+C:\Users\hr\Desktop\code\c#\이벤트\ConsoleApp1\obj\Debug\net5.0\이벤트.genruntimeconfig.cache
