@@ -2,6 +2,10 @@
 
 namespace inheritance
 {
+    public abstract class CarBase
+    {
+        public abstract void Left();  //추상 클래스의 추상 메서드    자식클래스들이 Left를 재구현하도록 강제한다 .  
+    }
     public enum CarType { 전기, 내연기관 };
     class Car
     {
