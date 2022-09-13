@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="inheritance.CarBase" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>inheritance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="inheritance.Car" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAADAAAAAAAAAA=</HashCode>
+      <FileName>inheritance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="inheritance.Benz" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>inheritance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="inheritance.Tesla" Collapsed="true">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>inheritance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="inheritance.Future" Collapsed="true">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>inheritance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="inheritance.InheritanceNote" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>inheritance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="inheritance.CarType" Collapsed="true">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>inheritance.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

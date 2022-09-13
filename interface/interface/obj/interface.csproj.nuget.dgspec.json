@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hr\\Desktop\\code\\c#\\상속\\ConsoleApp1\\inheritance.csproj": {}
+    "C:\\Users\\hr\\Desktop\\code\\c#\\interface\\interface\\interface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hr\\Desktop\\code\\c#\\상속\\ConsoleApp1\\inheritance.csproj": {
+    "C:\\Users\\hr\\Desktop\\code\\c#\\interface\\interface\\interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hr\\Desktop\\code\\c#\\상속\\ConsoleApp1\\inheritance.csproj",
-        "projectName": "inheritance",
-        "projectPath": "C:\\Users\\hr\\Desktop\\code\\c#\\상속\\ConsoleApp1\\inheritance.csproj",
+        "projectUniqueName": "C:\\Users\\hr\\Desktop\\code\\c#\\interface\\interface\\interface.csproj",
+        "projectName": "interface",
+        "projectPath": "C:\\Users\\hr\\Desktop\\code\\c#\\interface\\interface\\interface.csproj",
         "packagesPath": "C:\\Users\\hr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hr\\Desktop\\code\\c#\\상속\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\hr\\Desktop\\code\\c#\\interface\\interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
