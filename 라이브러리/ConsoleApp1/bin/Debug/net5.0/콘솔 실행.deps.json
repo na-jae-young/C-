@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "콘솔 실행/1.0.0": {
+        "dependencies": {
+          "JyClassLibrary1": "1.0.0"
+        },
+        "runtime": {
+          "콘솔 실행.dll": {}
+        }
+      },
+      "JyClassLibrary1/1.0.0": {
+        "runtime": {
+          "JyClassLibrary1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "콘솔 실행/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JyClassLibrary1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

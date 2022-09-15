@@ -1,0 +1,19 @@
+C:\Users\hr\Desktop\code\c#\라이브러리\ConsoleApp1\obj\Debug\net5.0\콘솔 실행.csproj.AssemblyReference.cache
+C:\Users\hr\Desktop\code\c#\라이브러리\ConsoleApp1\obj\Debug\net5.0\콘솔 실행.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hr\Desktop\code\c#\라이브러리\ConsoleApp1\obj\Debug\net5.0\콘솔 실행.AssemblyInfoInputs.cache
+C:\Users\hr\Desktop\code\c#\라이브러리\ConsoleApp1\obj\Debug\net5.0\콘솔 실행.AssemblyInfo.cs
+C:\Users\hr\Desktop\code\c#\라이브러리\ConsoleApp1\obj\Debug\net5.0\콘솔 실행.csproj.CoreCompileInputs.cache
+C:\Users\hr\Desktop\code\c#\라이브러리\ConsoleApp1\bin\Debug\net5.0\콘솔 실행.exe
+C:\Users\hr\Desktop\code\c#\라이브러리\ConsoleApp1\bin\Debug\net5.0\콘솔 실행.deps.json
+C:\Users\hr\Desktop\code\c#\라이브러리\ConsoleApp1\bin\Debug\net5.0\콘솔 실행.runtimeconfig.json
+C:\Users\hr\Desktop\code\c#\라이브러리\ConsoleApp1\bin\Debug\net5.0\콘솔 실행.runtimeconfig.dev.json
+C:\Users\hr\Desktop\code\c#\라이브러리\ConsoleApp1\bin\Debug\net5.0\콘솔 실행.dll
+C:\Users\hr\Desktop\code\c#\라이브러리\ConsoleApp1\bin\Debug\net5.0\ref\콘솔 실행.dll
+C:\Users\hr\Desktop\code\c#\라이브러리\ConsoleApp1\bin\Debug\net5.0\콘솔 실행.pdb
+C:\Users\hr\Desktop\code\c#\라이브러리\ConsoleApp1\bin\Debug\net5.0\jyClassLibrary1.dll
+C:\Users\hr\Desktop\code\c#\라이브러리\ConsoleApp1\bin\Debug\net5.0\jyClassLibrary1.pdb
+C:\Users\hr\Desktop\code\c#\라이브러리\ConsoleApp1\obj\Debug\net5.0\콘솔 실행.csproj.CopyComplete
+C:\Users\hr\Desktop\code\c#\라이브러리\ConsoleApp1\obj\Debug\net5.0\콘솔 실행.dll
+C:\Users\hr\Desktop\code\c#\라이브러리\ConsoleApp1\obj\Debug\net5.0\ref\콘솔 실행.dll
+C:\Users\hr\Desktop\code\c#\라이브러리\ConsoleApp1\obj\Debug\net5.0\콘솔 실행.pdb
+C:\Users\hr\Desktop\code\c#\라이브러리\ConsoleApp1\obj\Debug\net5.0\콘솔 실행.genruntimeconfig.cache
