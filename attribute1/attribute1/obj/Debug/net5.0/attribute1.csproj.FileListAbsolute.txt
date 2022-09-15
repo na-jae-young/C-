@@ -1,0 +1,16 @@
+C:\Users\hr\Desktop\code\c#\attribute1\attribute1\bin\Debug\net5.0\attribute1.exe
+C:\Users\hr\Desktop\code\c#\attribute1\attribute1\bin\Debug\net5.0\attribute1.deps.json
+C:\Users\hr\Desktop\code\c#\attribute1\attribute1\bin\Debug\net5.0\attribute1.runtimeconfig.json
+C:\Users\hr\Desktop\code\c#\attribute1\attribute1\bin\Debug\net5.0\attribute1.runtimeconfig.dev.json
+C:\Users\hr\Desktop\code\c#\attribute1\attribute1\bin\Debug\net5.0\attribute1.dll
+C:\Users\hr\Desktop\code\c#\attribute1\attribute1\bin\Debug\net5.0\ref\attribute1.dll
+C:\Users\hr\Desktop\code\c#\attribute1\attribute1\bin\Debug\net5.0\attribute1.pdb
+C:\Users\hr\Desktop\code\c#\attribute1\attribute1\obj\Debug\net5.0\attribute1.csproj.AssemblyReference.cache
+C:\Users\hr\Desktop\code\c#\attribute1\attribute1\obj\Debug\net5.0\attribute1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hr\Desktop\code\c#\attribute1\attribute1\obj\Debug\net5.0\attribute1.AssemblyInfoInputs.cache
+C:\Users\hr\Desktop\code\c#\attribute1\attribute1\obj\Debug\net5.0\attribute1.AssemblyInfo.cs
+C:\Users\hr\Desktop\code\c#\attribute1\attribute1\obj\Debug\net5.0\attribute1.csproj.CoreCompileInputs.cache
+C:\Users\hr\Desktop\code\c#\attribute1\attribute1\obj\Debug\net5.0\attribute1.dll
+C:\Users\hr\Desktop\code\c#\attribute1\attribute1\obj\Debug\net5.0\ref\attribute1.dll
+C:\Users\hr\Desktop\code\c#\attribute1\attribute1\obj\Debug\net5.0\attribute1.pdb
+C:\Users\hr\Desktop\code\c#\attribute1\attribute1\obj\Debug\net5.0\attribute1.genruntimeconfig.cache
