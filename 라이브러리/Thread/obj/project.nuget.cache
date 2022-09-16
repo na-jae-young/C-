@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HuLVS6S6lIh1ejPpKtmbf42VHwzJye+T4mQhCvxU79XEd9f3846mLrBxn3P14myNXr+LQMVxQK4gWM6ESVJwuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hr\\Desktop\\code\\c#\\라이브러리\\Thread\\Thread.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hr\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\hr\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\hr\\.nuget\\packages\\system.threading.thread\\4.3.0\\system.threading.thread.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

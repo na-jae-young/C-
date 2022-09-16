@@ -1,0 +1,12 @@
+C:\Users\hr\Desktop\code\c#\TodoApp\TodoApp.Models\obj\Debug\net5.0\TodoApp.Models.csproj.AssemblyReference.cache
+C:\Users\hr\Desktop\code\c#\TodoApp\TodoApp.Models\obj\Debug\net5.0\TodoApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hr\Desktop\code\c#\TodoApp\TodoApp.Models\obj\Debug\net5.0\TodoApp.Models.AssemblyInfoInputs.cache
+C:\Users\hr\Desktop\code\c#\TodoApp\TodoApp.Models\obj\Debug\net5.0\TodoApp.Models.AssemblyInfo.cs
+C:\Users\hr\Desktop\code\c#\TodoApp\TodoApp.Models\obj\Debug\net5.0\TodoApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\hr\Desktop\code\c#\TodoApp\TodoApp.Models\bin\Debug\net5.0\TodoApp.Models.deps.json
+C:\Users\hr\Desktop\code\c#\TodoApp\TodoApp.Models\bin\Debug\net5.0\TodoApp.Models.dll
+C:\Users\hr\Desktop\code\c#\TodoApp\TodoApp.Models\bin\Debug\net5.0\ref\TodoApp.Models.dll
+C:\Users\hr\Desktop\code\c#\TodoApp\TodoApp.Models\bin\Debug\net5.0\TodoApp.Models.pdb
+C:\Users\hr\Desktop\code\c#\TodoApp\TodoApp.Models\obj\Debug\net5.0\TodoApp.Models.dll
+C:\Users\hr\Desktop\code\c#\TodoApp\TodoApp.Models\obj\Debug\net5.0\ref\TodoApp.Models.dll
+C:\Users\hr\Desktop\code\c#\TodoApp\TodoApp.Models\obj\Debug\net5.0\TodoApp.Models.pdb

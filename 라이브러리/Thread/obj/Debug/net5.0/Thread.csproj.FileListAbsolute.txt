@@ -1,0 +1,16 @@
+C:\Users\hr\Desktop\code\c#\라이브러리\Thread\obj\Debug\net5.0\Thread.csproj.AssemblyReference.cache
+C:\Users\hr\Desktop\code\c#\라이브러리\Thread\obj\Debug\net5.0\Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hr\Desktop\code\c#\라이브러리\Thread\obj\Debug\net5.0\Thread.AssemblyInfoInputs.cache
+C:\Users\hr\Desktop\code\c#\라이브러리\Thread\obj\Debug\net5.0\Thread.AssemblyInfo.cs
+C:\Users\hr\Desktop\code\c#\라이브러리\Thread\obj\Debug\net5.0\Thread.csproj.CoreCompileInputs.cache
+C:\Users\hr\Desktop\code\c#\라이브러리\Thread\bin\Debug\net5.0\Thread.exe
+C:\Users\hr\Desktop\code\c#\라이브러리\Thread\bin\Debug\net5.0\Thread.deps.json
+C:\Users\hr\Desktop\code\c#\라이브러리\Thread\bin\Debug\net5.0\Thread.runtimeconfig.json
+C:\Users\hr\Desktop\code\c#\라이브러리\Thread\bin\Debug\net5.0\Thread.runtimeconfig.dev.json
+C:\Users\hr\Desktop\code\c#\라이브러리\Thread\bin\Debug\net5.0\Thread.dll
+C:\Users\hr\Desktop\code\c#\라이브러리\Thread\bin\Debug\net5.0\ref\Thread.dll
+C:\Users\hr\Desktop\code\c#\라이브러리\Thread\bin\Debug\net5.0\Thread.pdb
+C:\Users\hr\Desktop\code\c#\라이브러리\Thread\obj\Debug\net5.0\Thread.dll
+C:\Users\hr\Desktop\code\c#\라이브러리\Thread\obj\Debug\net5.0\ref\Thread.dll
+C:\Users\hr\Desktop\code\c#\라이브러리\Thread\obj\Debug\net5.0\Thread.pdb
+C:\Users\hr\Desktop\code\c#\라이브러리\Thread\obj\Debug\net5.0\Thread.genruntimeconfig.cache
