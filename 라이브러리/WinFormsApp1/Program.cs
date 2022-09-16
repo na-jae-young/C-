@@ -14,6 +14,9 @@ namespace WinFormsApp1
         [STAThread]
         static void Main()
         {
+            int[] arr = new int[] { 3, 2, 6 };
+            JyClassLibrary1.Algorithm.sort(arr);
+
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
