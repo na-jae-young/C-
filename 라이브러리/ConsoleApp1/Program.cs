@@ -6,7 +6,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            JyClassLibrary1.Algorithm.sort(); // 라이브러리  프로잭트 참조 추가 하여 사용 할수 있게 되었다 . dll 파일이 복사되었으므로 
+            int[] arr = new int[] { 3,2,6};
+            JyClassLibrary1.Algorithm.sort(arr); // 라이브러리  프로잭트 참조 추가 하여 사용 할수 있게 되었다 . dll 파일이 복사되었으므로 
 
 
         }
