@@ -19,7 +19,8 @@ namespace WinFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            JyClassLibrary1.Algorithm.sort();   // 윈도우폼에서도 사용 가능 
+            int[] arr = new int[] { 3, 2, 6 };
+            JyClassLibrary1.Algorithm.sort(arr);   // 윈도우폼에서도 사용 가능 
         }
     }
 }

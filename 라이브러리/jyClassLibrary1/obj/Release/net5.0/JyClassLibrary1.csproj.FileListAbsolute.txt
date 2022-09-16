@@ -1,0 +1,12 @@
+C:\Users\hr\Desktop\code\c#\라이브러리\jyClassLibrary1\bin\Release\net5.0\JyClassLibrary1.deps.json
+C:\Users\hr\Desktop\code\c#\라이브러리\jyClassLibrary1\bin\Release\net5.0\JyClassLibrary1.dll
+C:\Users\hr\Desktop\code\c#\라이브러리\jyClassLibrary1\bin\Release\net5.0\ref\JyClassLibrary1.dll
+C:\Users\hr\Desktop\code\c#\라이브러리\jyClassLibrary1\bin\Release\net5.0\JyClassLibrary1.pdb
+C:\Users\hr\Desktop\code\c#\라이브러리\jyClassLibrary1\obj\Release\net5.0\JyClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\hr\Desktop\code\c#\라이브러리\jyClassLibrary1\obj\Release\net5.0\JyClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hr\Desktop\code\c#\라이브러리\jyClassLibrary1\obj\Release\net5.0\JyClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\hr\Desktop\code\c#\라이브러리\jyClassLibrary1\obj\Release\net5.0\JyClassLibrary1.AssemblyInfo.cs
+C:\Users\hr\Desktop\code\c#\라이브러리\jyClassLibrary1\obj\Release\net5.0\JyClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\hr\Desktop\code\c#\라이브러리\jyClassLibrary1\obj\Release\net5.0\JyClassLibrary1.dll
+C:\Users\hr\Desktop\code\c#\라이브러리\jyClassLibrary1\obj\Release\net5.0\ref\JyClassLibrary1.dll
+C:\Users\hr\Desktop\code\c#\라이브러리\jyClassLibrary1\obj\Release\net5.0\JyClassLibrary1.pdb

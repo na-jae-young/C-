@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>JyClassLibrary1</id>
+    <version>1.0.0</version>
+    <authors>JyClassLibrary1</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\hr\Desktop\code\c#\라이브러리\jyClassLibrary1\bin\Release\net5.0\JyClassLibrary1.dll" target="lib\net5.0\JyClassLibrary1.dll" />
+  </files>
+</package>
